@@ -6,6 +6,8 @@ designed and built end to end as freelance client work.
 **Role:** design + front-end build + WordPress theming
 **Status:** delivered to the client and in use
 
+**[View the live design sample &rarr;](https://ashlyntrion.github.io/website-portfolio/demo/)**
+
 ## What was built
 
 **Static marketing site — 7 pages**
@@ -32,7 +34,19 @@ theme with a stylesheet header and screenshot.
 
 `HTML5` · `CSS3` · `vanilla JavaScript` · `WordPress theme (PHP)` · `Google Fonts`
 
+## Live design sample
+
+A redacted version of the layout is published on GitHub Pages — same components,
+structure and typographic system, with placeholder copy and AI-generated stand-in
+photography:
+
+**[Open the design sample &rarr;](https://ashlyntrion.github.io/website-portfolio/demo/)**
+
+The brand ("Meridian Coaching"), the people, the statistics and the testimonial in
+the sample are invented. Nothing from the real client — name, copy, photos or
+contact details — appears there.
+
 ## Note on source code
 
 The client's content, photography, branding and contact details are private, and
-the source lives in a private repository. This page is a build credit only.
+the real source lives in a private repository. This page is a build credit only.
